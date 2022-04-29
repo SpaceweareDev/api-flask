@@ -4,7 +4,6 @@ import requests
 
 from data import datafake
 
-import numpy as np
 
 app = Flask(__name__)
 
